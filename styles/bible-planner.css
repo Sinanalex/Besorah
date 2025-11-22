@@ -2470,11 +2470,3 @@ html {
         }
     }
 }
-
-
-/* Optimize font loading */
-@font-face {
-    font-family: 'Inter';
-    font-display: swap; /* Prevent invisible text */
-    src: local('Inter');
-}
